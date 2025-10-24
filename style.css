@@ -1,10 +1,16 @@
 body{
-    text-alagn: center;
+    text-align: center;
     font-family: Arial;
-    background-color: #222
-    color:white;
-
+    background-color: #222;
+    color: white;
 }
 img{
-    bonder-radius: 10px
+    border-radius: 10px;
+    transition: 0.3s;
+
+}
+button{
+    margin: 10px;
+    padding: 10px 20px;
+    font-size:16px;
 }
