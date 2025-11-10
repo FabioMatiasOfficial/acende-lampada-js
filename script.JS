@@ -5,9 +5,9 @@ lampada.addEventListener("mouseout",apagar);
 
 function acender(){
     lampada.src = "download__1_-removebg-preview.png";
-    document.body.style.background = "#ff0000ff"
+    document.body.style.background = "#0011ffff"
 }
 function apagar(){
     lampada.src = "download-removebg-preview.png";
-    document.body.style.background = "#0004ffff"
+    document.body.style.background = "#ff0000ff"
 }
