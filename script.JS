@@ -4,10 +4,10 @@ lampada.addEventListener("mouseover",acender);
 lampada.addEventListener("mouseout",apagar);
 
 function acender(){
-    lampada.src = "on.png";
-    document.body.style.background = "#ffeb3b22"
+    lampada.src = "download__1_-removebg-preview.png";
+    document.body.style.background = "#ff0000ff"
 }
 function apagar(){
-    lampada.src = "off.png";
-    document.body.style.background = "#222"
+    lampada.src = "download-removebg-preview.png";
+    document.body.style.background = "#0004ffff"
 }
